@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/e-commerce/static/css/main.5bebe385.css",
-    "main.js": "/e-commerce/static/js/main.d5c5b606.js",
+    "main.css": "/e-commerce/static/css/main.6cde336a.css",
+    "main.js": "/e-commerce/static/js/main.f74a04dd.js",
     "static/js/787.cda612ba.chunk.js": "/e-commerce/static/js/787.cda612ba.chunk.js",
+    "static/media/visa.svg": "/e-commerce/static/media/visa.a3d51c3545d4965a26bd0f0c0fbc9926.svg",
+    "static/media/mporiginal.svg": "/e-commerce/static/media/mporiginal.dfc00589f146d67f822886013f6ade3b.svg",
+    "static/media/mercadopago.png": "/e-commerce/static/media/mercadopago.632b680b2fff843ebfb2.png",
     "static/media/logo-banner.svg": "/e-commerce/static/media/logo-banner.d8496b8ab63f3947135168b288eb09fb.svg",
+    "static/media/provinciabsas.svg": "/e-commerce/static/media/provinciabsas.ec48204dad8b31da3856645edd79960e.svg",
+    "static/media/mastercard.svg": "/e-commerce/static/media/mastercard.0eb786d2054a5d1d488b4195859c3491.svg",
+    "static/media/maestro.svg": "/e-commerce/static/media/maestro.6151bc7926f22609f66a36da65237566.svg",
     "index.html": "/e-commerce/index.html",
-    "main.5bebe385.css.map": "/e-commerce/static/css/main.5bebe385.css.map",
-    "main.d5c5b606.js.map": "/e-commerce/static/js/main.d5c5b606.js.map",
+    "main.6cde336a.css.map": "/e-commerce/static/css/main.6cde336a.css.map",
+    "main.f74a04dd.js.map": "/e-commerce/static/js/main.f74a04dd.js.map",
     "787.cda612ba.chunk.js.map": "/e-commerce/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bebe385.css",
-    "static/js/main.d5c5b606.js"
+    "static/css/main.6cde336a.css",
+    "static/js/main.f74a04dd.js"
   ]
 }
